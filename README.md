@@ -19,7 +19,8 @@ Public tools as images or documentation
 |---|---|---|
 | `img/Logo-Inverence-N_T-Ajustado.webp` | `aq-shiny-report/aq_dashboard/aq_dashboard_ui.R`, `aq_dashboard_server_init.R` (footer) | `raw.githubusercontent.com/.../refs/heads/main/` |
 | `img/llull-environment/llull_environment_verde.png` | `aq-shiny-report/aq_dashboard/aq_dashboard_server_init.R` (header logo) | `github.com/.../blob/main/...?raw=true` |
-| `img/llull-environment/*.png`, `*.gif` and `img/socaire/*` | `aq-shiny-report/aq_dashboard/user-manual-llull-environment.md`, `user-manual-socaire.md` | `github.com/.../blob/main/...?raw=true` |
+| `img/llull-environment/*.png`, `*.gif` | `aq-shiny-report/aq_dashboard/user-manual.md`, `user-manual-es.md` | `github.com/.../blob/main/...?raw=true` |
+| `img/socaire/*` | Manual images of the `Valladolid_stable` branch of `aq-shiny-report`; keep them | `github.com/.../blob/main/...?raw=true` |
 | `img/llull-environment/cities/*` | `config.def_city_eea.tx_url_img1` / `tx_url_img2` (per-city logos, e.g. Vilnius) | `raw.githubusercontent.com/.../<commit>/...` (pinned to a commit) |
 | `img/aq-report-forecast-dygraph-legend.png` | `aq-shiny-report/aq_session_report-*.Rmd` | local checkout `/code/aq/aq-public-tools/` |
 
